@@ -1,0 +1,92 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "实习经历",
+        "projectList": "项目经验",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "个人评价"
+    },
+    "avatar": {
+        "src": "https://p.ipic.vip/qdmkwf.jpg",
+        "hidden": false
+    },
+    "profile": {
+        "name": "李承泽",
+        "email": "links426@outlook.com",
+        "mobile": "19303012156",
+        "github": "https://github.com/Links426",
+        "zhihu": "",
+        "workExpYear": "",
+        "positionTitle": "前端开发"
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2021.09.01",
+                "2025.06.30"
+            ],
+            "school": "广州大学",
+            "major": "",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [
+        {
+            "award_info": "英语 CET4",
+            "award_time": "2022",
+            "dataIndex": 0
+        },
+        {
+            "award_info": "两项软件著作权",
+            "award_time": "2022",
+            "dataIndex": 2
+        },
+        {
+            "award_info": "广州大学网页设计大赛一等奖",
+            "award_time": "2023",
+            "dataIndex": 1
+        }
+    ],
+    "workExpList": [
+        {
+            "company_name": "广州大学 系统流变所",
+            "department_name": "技术部",
+            "work_time": [
+                "2022.11",
+                "2023.03"
+            ],
+            "work_desc": "前端实习生。使用 Vue 参与服务器控制系统产品的重构与研发工作，与后端进行对接，有良好的编码习惯。",
+            "dataIndex": 0
+        }
+    ],
+    "skillList": [],
+    "projectList": [
+        {
+            "project_name": "系统流变所节点控制系统",
+            "project_role": "前端负责人",
+            "project_time": "2023.01 - 2023.03",
+            "project_desc": "技术栈为： Vue3 + TypeScript + Vite + Unocss + Arco Design + Guacamole 。主要内容为一个科研服务平台，可以让用户在服务器上远程部署、编辑和运行python代码，并通过远程访问，实时监控服务器节点的状态和结果。",
+            "project_content": "在该项目中，我主要负责了以下几个方面：\n1. 独立完成了产品的设计、开发和功能迭代，推动了项目的进度和质量。\n2. 封装了 Axios 请求，并使用 Interface 和 Type 对接口返回数据进行类型检查。使用拦截器增加了NProgess请求进度条，优化用户体验。\n3. 封装了 Monaco 编辑器，并增加了复制、删除、导入等快捷功能。\n4. 使用 Suspense 和 defineAsyncComponent 实现了异步组件加载，并在案例请求过程中，显示等待画面，提升了用户体验。 \n5. 使用 Css 变量，实现了暗色模式的切换。\n6. 使用 Keep - Alive 实现了用户切换页面的数据留存以及切换动画，优化了用户体验。",
+            "dataIndex": 0
+        },
+        {
+            "project_name": "荟聚通 小程序",
+            "project_role": "前端开发",
+            "project_time": "2022.12 - 2023.02",
+            "project_desc": "技术栈为：Vue3 + TypeScript + Vite + UniApp + UView + UnoCss。本项目是一个校内比赛组队的小程序，旨在为有志于参加各类比赛的学生提供一个便捷的平台，让他们能够轻松地找到合适的队伍和队友。项目采用了众多前沿技术栈，实现了高性能、高可用、高可维护的小程序开发。",
+            "project_content": "在该项目中，我主要负责了比赛及项目页的搭建，包括以下几个方面：\n1. 封装了Uni.request请求，通过Interface限定返回值，减少前端出错的概率，提高代码的健壮性和可读性。同时，使用拦截器统一处理请求错误和响应数据，优化用户体验。\n2. 对UView进行二次封装，使得组件更适应小程序的使用，增加了一些自定义属性和事件，优化了组件的样式和交互效果。\n3. 使用IntersectionObserver编写自定义指令，进行图片懒加载的设计，提升了页面的加载速度和用户体验。",
+            "dataIndex": 1
+        }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "- 熟练地使用DIV+CSS进行页面布局和重构，遵循网页开发流程，进行切图和HTML代码优化，以提高页面的性能和可维护性。\n- 熟练地使用HTML5+CSS3，编写符合w3c标准的语义化标签和样式，实现各种动画效果和交互功能。\n- 能够熟练地使用javascript语言，掌握ECMA标准，运用DOM、BOM操作，编写面向对象的JS代码，处理各种数据格式和正则表达式。\n- 熟练地使用Element-ui、Arco Design、Bootstrap等前端框架，快速搭建美观和易用的UI界面，同时也能够根据项目需求进行定制和扩展。\n- 熟悉Vue框架，使用webpack或vite搭建vue-cli脚手架开发单页面应用，并且打包部署项目，理解MVC和MVVM设计模式和模块化开发流程。\n- 熟悉git版本控制器，进行代码管理和团队协作，遵循git工作流程，处理分支合并和冲突解决等问题。"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
