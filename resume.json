@@ -4,7 +4,7 @@
 		"workExpList": "实习经历",
 		"projectList": "项目经验",
 		"skillList": "个人技能",
-		"awardList": "更多信息",
+		"awardList": "个人奖项",
 		"workList": "个人作品",
 		"aboutme": "个人评价"
 	},
@@ -28,9 +28,10 @@
 		}
 	],
 	"awardList": [
-		{ "award_info": "英语 CET4", "award_time": "2022", "dataIndex": 0 },
+		{ "award_time": "2023", "award_info": "广东省计算机设计大赛省三等奖" },
 		{ "award_info": "两项软件著作权", "award_time": "2022", "dataIndex": 2 },
-		{ "award_info": "广州大学网页设计大赛一等奖", "award_time": "2023", "dataIndex": 1 }
+		{ "award_info": "广州大学网页设计大赛一等奖", "award_time": "2023", "dataIndex": 1 },
+		{ "award_info": "英语 CET4", "award_time": "2022", "dataIndex": 0 }
 	],
 	"workExpList": [
 		{
