@@ -3,7 +3,7 @@
 		"educationList": "教育背景",
 		"workExpList": "实习经历",
 		"projectList": "项目经验",
-		"skillList": "个人技能",
+		"skillList": "专业技能",
 		"awardList": "个人奖项",
 		"workList": "个人作品",
 		"aboutme": "个人评价"
@@ -71,7 +71,7 @@
 	],
 	"workList": [],
 	"aboutme": {
-		"aboutme_desc": "\n- 熟练 DIV+CSS 布局和重构，遵循网页开发流程，优化切图和HTML代码，提升页面性能和可维护性。能够实现响应式布局，适配各种设备和分辨率，掌握 Flexbox 和 Grid 等先进布局技术。\n- 熟练使用 HTML5+CSS3，编写语义化标签和样式，符合w3c标准，实现动画效果和交互功能。\n- 熟练使用 Javascript 语言，掌握ECMA标准，运用DOM、BOM操作，编写面向对象的JS代码，处理数据格式和正则表达式。熟悉ES6+的新特性，如箭头函数、Promise、async/await等。能够使用 Axios 等库进行DOM操作和网络请求，并进行二次封装。\n- 熟练使用Element-ui、Arco Design、Bootstrap等前端框架，快速构建美观和易用的UI界面，并能够根据需求进行定制和扩展。\n- 熟悉 TypeScript 语言，使用 TS 编写更加健壮和可维护的代码，利用TS的类型系统进行类型检查和推断。\n- 熟悉 Vue 框架，使用webpack或vite搭建vue-cli脚手架开发单页面应用，并打包部署项目。理解MVC和MVVM设计模式和模块化开发流程。能够使用Vue的数据双向绑定，组件化开发，生命周期钩子，路由管理，状态管理等特性。\n- 掌握 Git 版本控制器，进行代码管理和团队协作，遵循git工作流程，处理分支合并和冲突解决等问题。能够使用GitHub或GitLab等平台进行代码托管和协作，并熟悉issue、pull request、code review等功能。\n- 掌握 Figma、XD、MasterGo 和 蓝湖等主流 UI 设计工具，项目均适用 Figma / XD + 蓝湖 自动生成标注的形式开发。\n- 掌握 MarkDown 格式编写文档，可以编写用户使用文档及项目开发文档。\n- 熟悉 Netlify、Github Page等代码托管平台，熟练使用网页静态托管。"
+		"aboutme_desc": "\n- 熟练 DIV+CSS 布局和重构，遵循网页开发流程，优化切图和HTML代码，提升页面性能和可维护性。能够实现响应式布局，适配各种设备和分辨率，掌握 Flexbox 和 Grid 等先进布局技术。\n- 熟练使用 HTML5+CSS3，编写语义化标签和样式，符合w3c标准，实现动画效果和交互功能。\n- 熟练使用 Javascript 语言，掌握ECMA标准，运用DOM、BOM操作，编写面向对象的JS代码，处理数据格式和正则表达式。熟悉ES6+的新特性，如箭头函数、Promise、async/await等。能够使用 Axios 等库进行DOM操作和网络请求，并进行二次封装。\n- 熟练使用Element-ui、Arco Design、Bootstrap等前端框架，快速构建美观和易用的UI界面，并能够根据需求进行定制和扩展。\n- 熟悉 TypeScript 语言，使用 TS 编写更加健壮和可维护的代码，利用TS的类型系统进行类型检查和推断。\n- 熟悉 Vue 框架，使用webpack或vite搭建vue-cli脚手架开发单页面应用，并打包部署项目。理解MVC和MVVM设计模式和模块化开发流程。能够使用Vue的数据双向绑定，组件化开发，生命周期钩子，路由管理，状态管理等特性。\n- 熟悉 Git 版本控制器，进行代码管理和团队协作，遵循git工作流程，处理分支合并和冲突解决等问题。能够使用GitHub或GitLab等平台进行代码托管和协作，并熟悉issue、pull request、code review等功能。\n- 掌握 Figma、XD、MasterGo 和 蓝湖等主流 UI 设计工具，项目均适用 Figma / XD + 蓝湖 自动生成标注的形式开发。\n- 掌握 MarkDown 格式编写文档，可以编写用户使用文档及项目开发文档。\n- 掌握 Netlify、Github Page等代码托管平台，熟练使用网页静态托管。"
 	},
 	"theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
 }
